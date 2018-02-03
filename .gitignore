@@ -1,0 +1,21 @@
+#folders
+bootstrap/
+config/
+modules/
+plugins/*
+storage/
+vendor/
+themes/*
+artisan
+index.php
+.git
+.htaccess
+.vscode
+
+
+#dont ignore plugins
+!plugins/alekmieczkowski
+!plugins/colehiggins
+
+#dont ignore theme
+!themes/wealthy-records
